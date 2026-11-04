@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix - Neo-Kinetic Dark Fintech",
+  "description": "High-velocity financial platform fusing Cash App tactile minimalism with Arc spatial glass surfaces, real-time algorithmic balances, virtual neo-cards, and instant peer-to-peer transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
